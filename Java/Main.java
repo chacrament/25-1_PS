@@ -2,7 +2,7 @@ package Java;
 
 public class Main {
     public void run() {
-        System.out.println("Hello World!! My name is Seongchan Kim");
+        System.out.println("Hello World!! My name is Seongchan Kim, nice to meet you!");
     }
 
     public static void main(String[] args) {
